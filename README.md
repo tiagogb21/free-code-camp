@@ -1,1 +1,1 @@
-**Repositório para entrega de projetos free code camp
+**Repositório para entrega de projetos do curso do Free Code Camp
